@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Siemanko");
         System.out.println("Elo");
         System.out.println("co tam?");
+        System.out.println("git a tam?");
     }
 }
