@@ -7,5 +7,9 @@ public class Main {
         System.out.println("git a tam?");
         System.out.println("spoko");
         System.out.println("a to spoko");
+        System.out.println("a to spoko");
+        System.out.println("a to spoko");
+        System.out.println("a to spoko");
+        System.out.println("a to spoko");
     }
 }
